@@ -1,3 +1,8 @@
+---
+typora-root-url: images
+typora-copy-images-to: images
+---
+
 ## 验证报错报错verification failed：
 
 Error: Host key verification failed.
@@ -17,3 +22,7 @@ Hi imsofter! You've successfully authenticated, but GitHub does not provide shel
 Connection to github.com closed.
 
 再可以将代码推上github上了。
+
+
+
+![1](/1.png)
