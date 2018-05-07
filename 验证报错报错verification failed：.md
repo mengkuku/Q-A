@@ -25,4 +25,4 @@ Connection to github.com closed.
 
 
 
-![1](../images/1.png)
+![1](../1.png)
